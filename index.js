@@ -1,1 +1,1 @@
-console.error("This action is not supported by the software!")
+console.log("This action is not supported by the software!")
